@@ -1,0 +1,26 @@
+{
+  "name": "togga-api",
+  "version": "1.0.0",
+  "description": "Togga data analysis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanmendez90/togga-api.git"
+  },
+  "keywords": [
+    "togga",
+    "fantasy",
+    "soccer",
+    "football",
+    "premier"
+  ],
+  "author": "wendez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanmendez90/togga-api/issues"
+  },
+  "homepage": "https://github.com/juanmendez90/togga-api#readme"
+}
